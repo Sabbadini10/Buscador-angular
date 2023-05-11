@@ -1,0 +1,21 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar
+{
+  background: #B0A8B9;
+}
+
+
+.titulo{
+  margin-left: 1em;
+  color:white;
+}
+
+.example-icon{
+  border-radius: 50%;
+  color: #4B4453;
+  border: none;
+  box-shadow: none !important;
+}
